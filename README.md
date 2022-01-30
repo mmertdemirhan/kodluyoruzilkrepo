@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 
-Bu repo [Kodluyoruz](www.kodluyoruz.org) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](www.kodluyoruz.org) Front-End eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ![](https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png)
 
 ## Installation
